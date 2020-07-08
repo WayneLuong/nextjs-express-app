@@ -1,2 +1,2 @@
 # nextjs-express-app
-NextJS with express server enviroment
+NextJS with node express server enviroment
