@@ -8,7 +8,7 @@ export default function params2() {
     const { myParams2 } = router.query
     console.log(router, router.query)
 
-    // example param path /test/someparam?querytitle=queryvalue&hey=yah
+    // example param path /test/multi/someparam?querytitle=queryvalue&hey=yah
     return (
         <Layout>
             <div>
